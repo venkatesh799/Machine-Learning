@@ -8,7 +8,7 @@ it uses the sigmoid/logit function
 1) Will Customer buy Insurance ot not 
 
 ***Multiclass Classification
-1) Which party a person is going to ote for
+1) Which party a person is going to vote for
    ---> Democartic
    ---> Republican
    --->Independent
